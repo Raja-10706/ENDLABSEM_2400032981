@@ -4,7 +4,6 @@
   "private": true,
   "type": "module",
   "homepage" : "https://Raja-10706.github.io/ENDLABSEM_2400032981/",
-/”
   "scripts": {
     "dev": "vite",
     "build": "vite build",
